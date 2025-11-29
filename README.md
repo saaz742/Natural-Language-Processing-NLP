@@ -16,6 +16,7 @@ Sharif university
     - Homework 4: [Categorization of news and articles](https://github.com/saaz742/NLP-Categorization-of-News-and-Articles)
       
  - Project
+    - [Drug-QA](https://github.com/NLP-Final-Projects/Drug-QA)
 
  - [Presentation](https://github.com/saaz742/NLP/tree/main/Presentation)
    - [Words entered in Farsi](https://github.com/saaz742/NLP/blob/main/Presentation/%DA%A9%D9%84%D9%85%D8%A7%D8%AA%20%D8%AF%D8%AE%DB%8C%D9%84%20%D8%AF%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
